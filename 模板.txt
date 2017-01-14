@@ -1,0 +1,21 @@
+
+	引言（常用数据库介绍——小幅	sqlite数据库优势介绍——大幅）
+		
+		1.sqlite使用
+				1.1 windows命令行下操作
+				1.2 SQLite Studio软件中操作		
+		2.qt中sqlite的简单示例（成绩表）
+				2.1 Qt中支持的数据库驱动
+				2.2 使用SQLite驱动建立数据库并创建表
+				2.3 从表中查询数据以及向表中添加\删除数据
+		3.总结
+			
+			
+			
+			
+			https://zhidao.baidu.com/question/756490612638910284.html
+			
+		
+http://blog.csdn.net/liang890319/article/details/7250510
+
+		http://wenku.baidu.com/link?url=92xptI_1dPDIipNrmgfkiTkAtIIDnTBM_QoZZKfqklDFX8rSgug3VooOu3NZ4vRdeVIuD4c3cw4aFVUIhBi0dXgjg4Trpgb1ympK88YWhLK
